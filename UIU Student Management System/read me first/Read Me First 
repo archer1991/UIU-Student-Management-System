@@ -1,0 +1,10 @@
+1. For the first time use, pls select current year ,semester from admin settings first . Without that, the program will not function properly .
+
+2. Master Admin userid : mast password: 1
+(U can add multiple admin and check login information from admin settings) 
+
+ 3. This program's interface is currently using GTK 2.0 . SO a linux distro is the best option to view the interfaces of the program correctly.And use JDK and JRE 1.7. 
+
+4. View Status option isn't ready yet. It is half done.(As an alpha version)
+
+  
